@@ -2,6 +2,8 @@
 
 A draft documentation for using [BBS signatures](https://datatracker.ietf.org/doc/draft-looker-cfrg-bbs-signatures/) that are bound to a User's secret key.
 
+[Editors Draft](https://basileioskal.github.io/bbs-bound-signatures/draft-bound-bbs-signatures.html)
+
 ## Building and Display
 
 The files are includeed in HTML for easier reading and navigation. 
